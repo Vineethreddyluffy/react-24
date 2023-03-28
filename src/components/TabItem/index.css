@@ -1,0 +1,22 @@
+button {
+  border-bottom-style: solid;
+  border-color: #dfe2e5;
+  border-width: 2px;
+  color: #7b8794;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  padding: 5px;
+  background-color: transparent;
+}
+.active-tab {
+  border-bottom-style: solid;
+  border-color: #2563eb;
+  border-width: 2px;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  padding: 5px;
+  color: #2563eb;
+  background-color: transparent;
+}
